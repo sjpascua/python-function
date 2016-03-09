@@ -8,4 +8,4 @@ def FuncOut(name, age):
           print "Hi! My name is %s and my age is %d" %(name, age)
           print "Hi! My name is {} and my age is {}".format(name,age)
 
-print FuncOut("Mary", 19)
+print FuncOut("Sheryl Joy Pascua", 19)
